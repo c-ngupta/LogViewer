@@ -10,9 +10,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="8.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="wwwroot\app.js" />
-    <None Include="wwwroot\logviewer.html" />
-  </ItemGroup>
-
 </Project>
